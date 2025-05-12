@@ -1,0 +1,35 @@
+# Core
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.2
+
+# NLP & Preprocessing
+nltk==3.9.1
+wordfreq==3.1.1
+
+# Sklearn for reward model & metrics
+scikit-learn==1.5.2
+
+# Transformers & back-translation
+transformers==4.38.2
+sentencepiece==0.2.0
+torch==2.4.1
+accelerate==0.34.2
+
+# Reinforcement Learning for text
+trl==0.7.11
+
+# Hugging Face datasets & hub
+datasets==3.0.1
+huggingface_hub==0.25.1
+
+# Optional: fastText for alternate reward model
+fasttext==0.9.3
+
+# Additional dependencies
+tqdm==4.66.5
+ipywidgets==8.1.5
+
+# TensorFlow and Keras for compatibility
+tensorflow==2.17.0
+tf-keras==2.17.0

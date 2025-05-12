@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Data & Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.tflite
+*.joblib
+*.pkl
+*.npz
+*.npy
+#*.csv
+#*.tsv
+*.log
+*.sqlite
+*.db
+#*.png
+*.jpg
+*.jpeg
+Models/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF and proposal files (optional)
+#*.pdf
