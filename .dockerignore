@@ -1,0 +1,8 @@
+Models/
+Data/
+Images/
+*.pt
+*.bin
+*.ckpt
+*.pth
+.venv/
