@@ -148,10 +148,5 @@ docker run --rm -it --gpus all \
 
 ---
 
-## License
-This project is for academic and research use. See `LICENSE` (if available) for details.
-
----
-
 ## Contact
 For questions or collaboration, please contact the project maintainer.
